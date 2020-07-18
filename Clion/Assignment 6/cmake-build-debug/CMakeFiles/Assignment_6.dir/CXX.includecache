@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 6/Ajjarapu_426006010_Ex2- 3-p339.cpp
+iostream
+-
+vector
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 6/Ajjarapu_426006010_game_lobby.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+time.h
+-
+

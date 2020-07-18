@@ -1,0 +1,103 @@
+Maze tiles file: Maze.txt
+
+ 0123
+0PXXX
+1WWXE
+2PXXX
+3WWWX
+4PXXX
+Player 1 position : (0, 0)
+Move 1----------------------------
+right
+
+ 0123
+0SPXX
+1WWXE
+2PXXX
+3WWWX
+4PXXX
+Player 2 position : (2, 0)
+Move 1----------------------------
+right
+
+ 0123
+0SPXX
+1WWXE
+2SPXX
+3WWWX
+4PXXX
+Player 3 position : (4, 0)
+Move 1----------------------------
+right
+
+ 0123
+0SPXX
+1WWXE
+2SPXX
+3WWWX
+4SPXX
+Player 1 position : (0, 1)
+Move 2----------------------------
+right
+
+ 0123
+0SXPX
+1WWXE
+2SPXX
+3WWWX
+4SPXX
+Player 2 position : (2, 1)
+Move 2----------------------------
+right
+
+ 0123
+0SXPX
+1WWXE
+2SXPX
+3WWWX
+4SPXX
+Player 3 position : (4, 1)
+Move 2----------------------------
+right
+
+ 0123
+0SXPX
+1WWXE
+2SXPX
+3WWWX
+4SXPX
+Player 1 position : (0, 2)
+Move 3----------------------------
+right
+
+ 0123
+0SXXP
+1WWXE
+2SXPX
+3WWWX
+4SXPX
+Player 2 position : (2, 2)
+Move 3----------------------------
+right
+
+ 0123
+0SXXP
+1WWXE
+2SXXP
+3WWWX
+4SXPX
+Player 3 position : (4, 2)
+Move 3----------------------------
+r
+
+ 0123
+0SXXP
+1WWXE
+2SXXP
+3WWWX
+4SXXP
+Player 1 position : (0, 3)
+Move 4----------------------------
+d
+
+Player 1 Won in 5 move(s)

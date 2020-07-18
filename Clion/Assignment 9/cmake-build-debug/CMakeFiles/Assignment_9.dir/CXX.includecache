@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Maze.h
+vector
+-
+Tile.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Tile.h
+Position.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Position.h
+string
+-
+iostream
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazeGame.cpp
+MazeGame.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazeGame.h
+string
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazeGame.h
+iostream
+-
+fstream
+-
+vector
+-
+Maze.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Maze.h
+MazePlayer.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazePlayer.h
+Position.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Position.h
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazePlayer.cpp
+MazePlayer.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazePlayer.h
+Position.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Position.h
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazePlayer.h
+Position.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Position.h
+iostream
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Position.h
+iostream
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/Tile.h
+iostream
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+MazeGame.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazeGame.h
+MazePlayer.h
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 9/MazePlayer.h
+

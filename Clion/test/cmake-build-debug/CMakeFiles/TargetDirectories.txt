@@ -1,0 +1,3 @@
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/test/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/test/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 7/Ajjarapu_426006010_Ex_11_12.cpp
+iostream
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 7/Ajjarapu_426006010_Ex_14.cpp
+

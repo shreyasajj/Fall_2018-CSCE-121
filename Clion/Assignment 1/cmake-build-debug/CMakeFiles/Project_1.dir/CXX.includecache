@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Project 1/Grade_Caculator.cpp
+string
+-
+iostream
+-
+iomanip
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Project 1/Person_Help.cpp
+iostream
+-
+string
+-
+sstream
+-
+

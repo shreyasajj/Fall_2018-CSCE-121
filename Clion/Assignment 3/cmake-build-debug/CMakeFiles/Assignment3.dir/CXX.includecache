@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 3/Ajjarapu_426006010_Ex2- p128.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 3/Ajjarapu_426006010_Ex3-p128.cpp
+vector
+-
+algorithm
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 3/Ajjarapu_426006010_Ex4- p128.cpp
+vector
+-
+limits
+-
+
+C:/Users/shrey/Documents/Fall 2018/CSCE-121/Clion/Assignment 3/Ajjarapu_426006010_Ex7-pg170.cpp
+cmath
+-
+vector
+-
+iomanip
+-
+

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(Assignment_7)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Assignment_7 Ajjarapu_426006010_Drills-arrays_p622.cpp Ajjarapu_426006010_Drills-pointers-p622.cpp Ajjarapu_426006010_Ex_3.cpp Ajjarapu_426006010_Ex_4.c Ajjarapu_426006010_Ex_11_12.cpp Ajjarapu_426006010_Ex_14.cpp)
